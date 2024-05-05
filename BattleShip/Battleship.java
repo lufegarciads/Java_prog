@@ -1,4 +1,3 @@
-package Part_I;
 import java.util.*;
 
 public class Battleship {
