@@ -3,7 +3,7 @@
 // Fall 2023
 // Assignment 1 Question 6
 
-public class Question6 {
+public class Array {
 
 	public static void main(String[] args) {
 		
